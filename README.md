@@ -101,17 +101,4 @@ Error = Target Position − Current Position
 - Educational control-system labs
 - Smart building automation
 
----
-
-## Team Members
-
-| Name | Section | ID |
-|---|---|---|
-| Amira Salah Eldin Mohamed | 1 | 9230247 |
-| Aya Medhat Essam Eldein | 1 | 9230269 |
-| Hussien Mohamed Hesham | 2 | 9230346 |
-| Zaynab Mohamed Sayed Darwish | 2 | 9230414 |
-| Sheirifa Alai Koreny Alai | 2 | 9230475 |
-| Abdullah Ahmed Mohamed Sayed Aly | 2 | 9230555 |
-
 > Submitted to: **Dr. Mahmoud Gilany**
